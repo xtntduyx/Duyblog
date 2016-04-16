@@ -1,0 +1,6 @@
++ Welcome page
++ About page
++ Article resource. fully with Scaffold
++ Style all the articles
+
+002 Add User Validations - Text directions and code
